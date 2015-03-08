@@ -1,0 +1,2 @@
+# learn
+Direktori ngoprek
